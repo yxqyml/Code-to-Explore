@@ -1,4 +1,4 @@
-# Estimation of Pi 
+# Estimation of PI 
 # To draw a circle of radius 0.5, enclosed by a 1x1 sqaure on the 2D plane. If the area 
 # of the circle (pi*0.5^2 = pi/4) is divided by that of the square (1), we get pi/4.
 #
