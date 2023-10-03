@@ -1,4 +1,7 @@
 # How to calcuate the value of PI (π) 
+This folder include two python files:
+* est_pi.py -- Python file to show the estimation of PI by using animations (Plotly)  
+* est_pi_explain.py -- Python file (manim) to explain the principle of calculation of PI by using Monte Carlo.
 ## 1. History, Efforts, and Fun Facts of PI (π) 
 
 Pi (π) is a magical mathematical constant representing the ratio of a circle's circumference to its diameter. Although it may seem simple, the precise value of pi has always been one of the pursuits of mathematicians and scientists. Let's take a look at the history of pi, the relentless efforts of people to calculate it, and some interesting facts.
