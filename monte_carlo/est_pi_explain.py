@@ -1,6 +1,6 @@
 from manim import *
 
-class ThreeDCameraRotation(Scene):
+class MonteCarloExplain(Scene):
     def construct(self):
         NUM = 100
         axes = Axes()
